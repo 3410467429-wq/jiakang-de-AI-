@@ -9,7 +9,17 @@ description: >-
   ecommerce image diagnosis. Supports Taobao, Tmall, Pinduoduo, Douyin, JD and
   similar ecommerce platforms.
 ---
+使用方式：打开 Codex 后，直接发这段提示词即可：
 
+```text
+请把 GitHub 仓库 https://github.com/3410467429-wq/jiakang-de-AI- 里的 ecommerce-image-diagnosis 文件夹安装为 Codex skill。安装到默认的 ~/.codex/skills 目录即可。完成后提醒我重启 Codex。
+```
+
+安装后一定要重启 Codex，新的 skill 才会被加载。重启后输入类似：
+
+```text
+请检查我当前已安装的 skills，确认 ecommerce-image-diagnosis 是否可用。
+```
 # 电商主图&详情页诊断 Skill
 
 ## Core Rule
