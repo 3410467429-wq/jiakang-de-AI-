@@ -20,6 +20,10 @@ description: >-
 ```text
 请检查我当前已安装的 skills，确认 ecommerce-image-diagnosis 是否可用。
 ```
+在Codex的调用方式
+```text
+/ecommerce-image-diagnosis 帮我诊断这张主图/详情
+```
 # 电商主图&详情页诊断 Skill
 
 ## Core Rule
