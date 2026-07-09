@@ -1,0 +1,7 @@
+interface:
+  display_name: "电商图片诊断"
+  short_description: "结合主图、详情页、评价、竞品和漏斗数据做电商转化诊断。"
+  default_prompt: "Use $ecommerce-image-diagnosis to diagnose this ecommerce main image or detail page, using any provided reviews, competitor data, and funnel metrics, then generate an HTML report with P0/P1/P2 actions."
+
+policy:
+  allow_implicit_invocation: true
